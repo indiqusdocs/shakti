@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Signing Up
 
-Ananta offers an easy way of signing up for a subscriber cloud account. Clicking on the **Sign Up** link on [Ananta Cloud](https://console.ananta.stpi.in/) will navigate to the signup form. Users can simply fill up this form and follow the next steps to get access to their account.
+Shakti offers an easy way of signing up for a subscriber cloud account. Clicking on the **Sign Up** link on [Ananta Cloud](https://console.ananta.stpi.in/) will navigate to the signup form. Users can simply fill up this form and follow the next steps to get access to their account.
 
 ![Signing Up](SigningUp.png)
 ## Self-service Signup
