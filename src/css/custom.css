@@ -31,12 +31,12 @@
 
 /* Set Montserrat font for all headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Helvetica';
+  font-family: 'Arial', sans-serif !important;
 }
 
 /* Set Open Sans font for all body text */
 body {
-  font-family: 'Helvetica'; 
+  font-family: 'Arial', sans-serif !important; 
   font-size: 14px; /* You can adjust the size as needed */
 }
 
