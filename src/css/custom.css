@@ -7,44 +7,42 @@
 /* You can override the default variables here. */
 
 :root {
-  --ifm-color-primary: #004bd1;
-  --ifm-color-primary-dark: #0044bc;
-  --ifm-color-primary-darker: #0040b2;
-  --ifm-color-primary-darkest: #003592;
-  --ifm-color-primary-light: #0053e6;
-  --ifm-color-primary-lighter: #0056f0;
-  --ifm-color-primary-lightest: #1166ff;
+  --ifm-color-primary: #283e81;
+  --ifm-color-primary-dark: #243874;
+  --ifm-color-primary-darker: #22356e;
+  --ifm-color-primary-darkest: #1c2b5a;
+  --ifm-color-primary-light: #2c448e;
+  --ifm-color-primary-lighter: #2e4794;
+  --ifm-color-primary-lightest: #3451a8;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-   --ifm-color-primary: #f59700;
-  --ifm-color-primary-dark: #dd8800;
-  --ifm-color-primary-darker: #d08000;
-  --ifm-color-primary-darkest: #ab6a00;
-  --ifm-color-primary-light: #ffa30f;
-  --ifm-color-primary-lighter: #ffa71b;
-  --ifm-color-primary-lightest: #ffb640;
-  --ifm-background-color: #0d1449;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #f29e43;
+  --ifm-color-primary-dark: #f08f26;
+  --ifm-color-primary-darker: #ef8818;
+  --ifm-color-primary-darkest: #ca700e;
+  --ifm-color-primary-light: #f4ad60;
+  --ifm-color-primary-lighter: #f5b46e;
+  --ifm-color-primary-lightest: #f8cb9a;
 }
 
 /* Custom CSS for Fonts and Styles */
 
 /* Set Montserrat font for all headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Aptos', sans-serif;
+  font-family: 'Helvetica';
 }
 
 /* Set Open Sans font for all body text */
 body {
-  font-family: 'Aptos', sans-serif;
+  font-family: 'Helvetica'; 
   font-size: 14px; /* You can adjust the size as needed */
 }
 
 /* Set H1 color to navy and font size to 28px */
 h1 {
-  color: #004bd1;
+  color: #283e81;
   font-size: 24px;
 }
 
@@ -61,7 +59,7 @@ h3 {
 /* Dark mode heading color */
 [data-theme='dark'] h1
 {
-  color: #F59700; /* Orange text for headings in dark mode */
+  color: #f29e43; /* Orange text for headings in dark mode */
 }
 
 [data-theme='dark'] h2,
@@ -72,7 +70,7 @@ h3 {
 
 a {
    /* text-decoration: none;  Removes underline from links */
-    color: #004bd1 !important; /* Default link color */
+    color: #283e81 !important; /* Default link color */
   /* transition: color 0.3s ease;  Smooth transition for color change */
 
   /* transition: text-shadow 0.3s ease;  Smooth transition for glow effect */
@@ -93,7 +91,7 @@ a:hover {
 
 /* Dark mode link color */
 [data-theme='dark'] a {
-  color: #F59700 !important; /* orange link color for dark mode */
+  color: #f29e43 !important; /* orange link color for dark mode */
 }
 
 /* Custom CSS for Image Zoom Effect */
@@ -183,7 +181,7 @@ img:active {
 /* Default link style for the button at the top*/
 .navbar__link {
   padding: 6px 10px;
-  color: #004bd1;
+  color: #283e81;
   text-decoration: none;
   border: none;
   background: none;
@@ -193,21 +191,21 @@ img:active {
 
 /* When a menu item is active, make it look like a button */
 .navbar__link--active {
-  background-color: #004bd1;
+  background-color: #283e81;
   color: #FFFFFF !important;
-  border: 1px 004bd1;
+  border: 1px #283e81;
   border-radius: 35px;
   padding: 5px 10px;
 }
 
 /* Keep the hover color the same as the active state */
 .navbar__link--active:hover {
-  background-color: #004bd1 !important ;
+  background-color: #283e81 !important ;
   color: #FFFFFF !important; /* Ensure the text remains navy on hover */
   border-color: #004bd1 ;
 }
 .navbar .button--primary {
-  background-color: #004bd1; /* Custom background color */
+  background-color: #283e81; /* Custom background color */
   color: white !important; /* Text color */
   border: none; /* Optional: remove border */
   border-radius: 20px; /* Optional: rounded corners */
@@ -217,7 +215,7 @@ img:active {
 
 /* Dark mode styling for top navigation bar links using [data-theme='dark'] */
 [data-theme='dark'] .navbar__link {
-    background-color: #F59700 !important;
+    background-color: #f29e43 !important;
     color: #FFFFFF !important;
     padding: 6px 10px !important;
     border-radius: 35px !important; /* Increased border-radius for a more rounded appearance */
@@ -226,13 +224,13 @@ img:active {
 
 /* Dark mode hover effect for top navigation bar links */
 [data-theme='dark'] .navbar__link:hover {
-    background-color: #d77f00 !important;
+    background-color: #f29e43 !important;
     color: #FFFFFF !important;
 }
 
 /* Dark mode styling for active (selected) top navigation link */
 [data-theme='dark'] .navbar__link--active {
-    background-color: #F59700 !important;
+    background-color: #f29e43 !important;
     color: #FFFFFF !important;
     padding: 6px 12px !important; /* Slightly more padding for a better rounded effect */
     border-radius: 35px !important; /* Ensures a rounded button */
@@ -240,7 +238,7 @@ img:active {
 
 /* Dark mode styling for active link hover */
 [data-theme='dark'] .navbar__link--active:hover {
-    background-color: #d77f00 !important;
+    background-color: #f29e43 !important;
     color: #FFFFFF !important;
 }
 
@@ -260,7 +258,7 @@ img:active {
 
 .hero .button {
     background-color: #FFFFFF;  /* Change the background color */
-    color: #004bd1 !important;  /* Change the text color */
+    color: #283e81 !important;  /* Change the text color */
     border-radius: 25px;  /* Make the button rounded */
     padding: 10px 20px;  /* Adjust padding */
     font-size: 16px;  /* Adjust font size */
