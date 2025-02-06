@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Ananta Cloud Technical Documentation',
+  title: 'Shakti Cloud Technical Documentation',
  // tagline: 'Find user guides, quickstarts, release notes, FAQs, and more for Service Providers and Subscribers.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.ananta.stpi.in',
+  url: 'https://docs.console.shakticloud.ai',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -34,9 +34,9 @@ const config = {
     locales: ['en'],
   },
 
-stylesheets: [
+stylesheets: [ 
     {
-      href: 'https://fonts.cdnfonts.com/css/aptos', // Update this to the correct link to load Aptos
+      href: "https://fonts.cdnfonts.com/css/helvetica-255", // Update this to the correct link to load Aptos
       rel: 'stylesheet',
     },
   ],
@@ -112,13 +112,14 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
 	  
     },
       // Replace with your project's social card
-      image: 'img/ananta-social-card.png',
+      image: 'img/shakti-social-card.png',
       navbar: {
         title: '',
 		// hideOnScroll: true,
         logo: {
-          alt: 'Ananta',
-          src: 'img/logo.svg',
+          alt: 'Shakti',
+          src: 'img/logolight.png',
+		  srcDark: 'img/logo.svg',
         },
         items: [
           
@@ -138,8 +139,8 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
         },
 		 */  	  
 		  {
-          href: 'https://portal.ananta.stpi.in', // Change to the desired link
-          label: 'Ananta Cloud', // The label of your button
+          href: 'https://console.shakticloud.ai', // Change to the desired link
+          label: 'Shakti Cloud', // The label of your button
           position: 'right',
           className: 'button button--primary', // Add button classes here
         },
