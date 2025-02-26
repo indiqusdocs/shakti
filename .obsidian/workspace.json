@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ResettingPassword.md",
+                "file": "docs/Develop/AI Lab/CreatingAILabInstance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ResettingPassword"
+              "title": "CreatingAILabInstance"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/AboutEstimates.md",
+                "file": "docs/Develop/AI Lab/CreatingAILabInstance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AboutEstimates"
+              "title": "Backlinks for CreatingAILabInstance"
             }
           },
           {
@@ -165,29 +165,43 @@
   },
   "active": "40d501cff488e097",
   "lastOpenFiles": [
-    "build/blog/atom.xml",
-    "build/blog/rss.xml",
-    "build/blog/rss.css",
-    "build/blog/atom.css",
-    "build/blog/atom.xsl",
-    "build/blog/rss.xsl",
+    "build/docs/Deploy/Serverless/ViewingServerlessGPU/index.html",
+    "build/docs/Develop/AI Lab/ManagingAILabInstances/index.html",
+    "build/docs/Develop/AI Lab/Overview/index.html",
+    "build/docs/Develop/AI Lab/ViewingDetailsofAILabInstances/index.html",
+    "build/docs/Develop/AI Lab/CreatingAILabInstance/index.html",
     "build/docs/TeamandSupport/Users/CreatingNewUser/index.html",
     "build/docs/TeamandSupport/Users/ManagingUsers/index.html",
     "build/docs/TeamandSupport/Tickets/ViewingTicketStatus/index.html",
     "build/docs/TeamandSupport/Tickets/FAQs/index.html",
     "build/docs/TeamandSupport/Tickets/CreatingNewTicket/index.html",
-    "build/assets/images/ResettingPassword1-27b06c90cd3b317fdb6769cd4be5d107.png",
-    "build/assets/images/ResettingPassword2-b3a1fe41ec7154b9aa65415914d14e1a.png",
-    "build/assets/images/ResettingPassword3-82f617139fe9b9e3b41190d010f35e17.png",
-    "build/assets/images/dashboardimage-b8aa9c2ad6d24910d9aebfa00f43e338.png",
-    "docs/EmailNotification.png",
+    "build/docs/OtherServices/Storage/CreatingNewStorage/index.html",
+    "build/assets/images/AILab2-5cadbd9cafe099c3f4abb7f05b8552d5.png",
+    "build/assets/images/AILab1-8d7bcd6f8f21745678a5b24bcfa8db1c.png",
+    "docs/Develop/AI Workspace/ManagingAIWorkspace.md",
+    "docs/Develop/AI Workspace/CreatingNewAIWorkspace.md",
+    "img/AILab.md",
+    "docs/Develop/AI Lab/CreatingAILabInstance.md",
+    "docs/Develop/AI Lab/ManagingAILabInstances.md",
+    "docs/Dashboard/DefaultProject.md",
+    "docs/Dashboard/NewProject.md",
+    "docs/Dashboard/GPUDashboard/SlurmWithGPUs.md",
+    "docs/Dashboard/GPUDashboard/KubernetesWithGPUs.md",
+    "docs/Dashboard/GPUDashboard/GPU Dashboard.md",
+    "docs/Develop/AI Workspace/img/AIWorskpace6.png",
+    "docs/Develop/AI Workspace/img/AIWorkspace5.png",
+    "docs/Develop/AI Workspace/img/AIWorkspace4.png",
+    "docs/Develop/AI Workspace/img/AIWorkspace3.png",
+    "docs/Develop/AI Workspace/img/AIWorkspace2.png",
+    "docs/Develop/AI Workspace/img/AIWorkspace1.png",
+    "docs/Develop/AI Lab/img/AILab6.png",
+    "docs/Develop/AI Lab/img/AILab5.png",
+    "docs/Develop/AI Lab/ViewingDetailsofAILabInstances.md",
+    "docs/BillingandWallet/Adding Wallet Balance.md",
+    "docs/BillingandWallet/Wallet Management.md",
+    "docs/BillingandWallet/CreditVoucherBalance.md",
     "docs/ResettingPassword.md",
-    "docs/ResettingPassword3.png",
-    "Pasted image 20250210145636.png",
     "docs/LoggingIn.md",
-    "docs/dashboardimage.png",
-    "docs/LoggingIn3.png",
-    "docs/LoggingIn2.png",
     "docs/SigningUp.md",
     "docs/intro.md",
     "docs/TeamandSupport/Users/ManagingUsers.md",
@@ -196,20 +210,6 @@
     "docs/TeamandSupport/Users/CreatingNewTicket.md",
     "docs/TeamandSupport/Tickets/FAQs.md",
     "docs/TeamandSupport/ViewingTicketStatus.md",
-    "docs/TeamandSupport/Tickets/CreatingNewTicket.md",
-    "docs/TeamandSupport/Tickets/ViewingTicketStatus.md",
-    "docs/TeamandSupport/CreatingNewTicket.md",
-    "docs/TeamandSupport/FAQs.md",
-    "docs/TeamandSupport/Tickets.md",
-    "docs/OtherServices/Storage/ViewingStorage.md",
-    "docs/OtherServices/Storage/CreatingNewStorage.md",
-    "docs/OtherServices/Storage/Storage.md",
-    "docs/OtherServices/Storage/Overview.md",
-    "docs/Develop/AI Workspace/Overview.md",
-    "docs/Develop/AI Workspace/ViewingDetailsofAIWorkspace.md",
-    "docs/Develop/AI Workspace/ManagingAIWorkspace.md",
-    "docs/Develop/AI Workspace/CreatingNewAIWorkspace.md",
-    "docs/Develop/AI Lab/ViewingDetailsofAILabInstances.md",
-    "docs/Develop/AI Lab/Overview.md"
+    "docs/TeamandSupport/Tickets/CreatingNewTicket.md"
   ]
 }
