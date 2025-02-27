@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Develop/AI Lab/CreatingAILabInstance.md",
+                "file": "docs/Develop/AI Workspace/CreatingNewAIWorkspace.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CreatingAILabInstance"
+              "title": "CreatingNewAIWorkspace"
             }
           }
         ]
@@ -165,26 +165,28 @@
   },
   "active": "40d501cff488e097",
   "lastOpenFiles": [
-    "build/docs/Deploy/Serverless/ViewingServerlessGPU/index.html",
-    "build/docs/Develop/AI Lab/ManagingAILabInstances/index.html",
+    "build/search-index.json",
     "build/docs/Develop/AI Lab/Overview/index.html",
-    "build/docs/Develop/AI Lab/ViewingDetailsofAILabInstances/index.html",
+    "build/docs/Develop/AI Lab/Overview",
     "build/docs/Develop/AI Lab/CreatingAILabInstance/index.html",
-    "build/docs/TeamandSupport/Users/CreatingNewUser/index.html",
-    "build/docs/TeamandSupport/Users/ManagingUsers/index.html",
-    "build/docs/TeamandSupport/Tickets/ViewingTicketStatus/index.html",
-    "build/docs/TeamandSupport/Tickets/FAQs/index.html",
-    "build/docs/TeamandSupport/Tickets/CreatingNewTicket/index.html",
-    "build/docs/OtherServices/Storage/CreatingNewStorage/index.html",
+    "build/docs/Develop/AI Lab/CreatingAILabInstance",
+    "build/docs/Deploy/Serverless/ManagingSeverlessGPU/index.html",
+    "build/docs/Deploy/Serverless/ManagingSeverlessGPU",
+    "build/docs/Deploy/Serverless/ViewingServerlessGPU/index.html",
+    "build/docs/Deploy/Serverless/ViewingServerlessGPU",
+    "build/docs/Deploy/Serverless/CreatingNewServerlessGPU/index.html",
+    "build/docs/Deploy/Serverless/CreatingNewServerlessGPU",
+    "docs/Develop/AI Lab/ViewingDetailsofAILabInstances.md",
+    "docs/Develop/AI Lab/Overview.md",
+    "docs/Develop/AI Lab/ManagingAILabInstances.md",
+    "docs/Develop/AI Lab/CreatingAILabInstance.md",
+    "docs/Dashboard/CreatingNewProject.md",
+    "docs/Dashboard/DefaultProject.md",
     "build/assets/images/AILab2-5cadbd9cafe099c3f4abb7f05b8552d5.png",
     "build/assets/images/AILab1-8d7bcd6f8f21745678a5b24bcfa8db1c.png",
     "docs/Develop/AI Workspace/ManagingAIWorkspace.md",
     "docs/Develop/AI Workspace/CreatingNewAIWorkspace.md",
     "img/AILab.md",
-    "docs/Develop/AI Lab/CreatingAILabInstance.md",
-    "docs/Develop/AI Lab/ManagingAILabInstances.md",
-    "docs/Dashboard/DefaultProject.md",
-    "docs/Dashboard/NewProject.md",
     "docs/Dashboard/GPUDashboard/SlurmWithGPUs.md",
     "docs/Dashboard/GPUDashboard/KubernetesWithGPUs.md",
     "docs/Dashboard/GPUDashboard/GPU Dashboard.md",
@@ -196,7 +198,6 @@
     "docs/Develop/AI Workspace/img/AIWorkspace1.png",
     "docs/Develop/AI Lab/img/AILab6.png",
     "docs/Develop/AI Lab/img/AILab5.png",
-    "docs/Develop/AI Lab/ViewingDetailsofAILabInstances.md",
     "docs/BillingandWallet/Adding Wallet Balance.md",
     "docs/BillingandWallet/Wallet Management.md",
     "docs/BillingandWallet/CreditVoucherBalance.md",
@@ -209,7 +210,6 @@
     "docs/TeamandSupport/Users/CreatingNewUser.md",
     "docs/TeamandSupport/Users/CreatingNewTicket.md",
     "docs/TeamandSupport/Tickets/FAQs.md",
-    "docs/TeamandSupport/ViewingTicketStatus.md",
-    "docs/TeamandSupport/Tickets/CreatingNewTicket.md"
+    "docs/TeamandSupport/ViewingTicketStatus.md"
   ]
 }
