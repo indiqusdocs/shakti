@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c8ff5a4c2d11214e",
+        "id": "99856c0f7ac01684",
         "type": "tabs",
         "children": [
           {
-            "id": "40d501cff488e097",
+            "id": "1c3e81af1dd92315",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Develop/AI Workspace/CreatingNewAIWorkspace.md",
+                "file": "docs/Develop/AI Lab/CreatingAILabInstance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CreatingNewAIWorkspace"
+              "title": "CreatingAILabInstance"
             }
           }
         ]
@@ -163,8 +163,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40d501cff488e097",
+  "active": "1c3e81af1dd92315",
   "lastOpenFiles": [
+    "docs/Develop/AI Workspace/CreatingNewAIWorkspace.md",
+    "docs/Develop/AI Workspace/img/AIWorskpace6.png",
+    "img 4.md",
+    "img 3.md",
+    "img 2.md",
+    "img 1.md",
+    "img.md",
     "build/search-index.json",
     "build/docs/Develop/AI Lab/Overview/index.html",
     "build/docs/Develop/AI Lab/Overview",
@@ -175,7 +182,6 @@
     "build/docs/Deploy/Serverless/ViewingServerlessGPU/index.html",
     "build/docs/Deploy/Serverless/ViewingServerlessGPU",
     "build/docs/Deploy/Serverless/CreatingNewServerlessGPU/index.html",
-    "build/docs/Deploy/Serverless/CreatingNewServerlessGPU",
     "docs/Develop/AI Lab/ViewingDetailsofAILabInstances.md",
     "docs/Develop/AI Lab/Overview.md",
     "docs/Develop/AI Lab/ManagingAILabInstances.md",
@@ -185,12 +191,10 @@
     "build/assets/images/AILab2-5cadbd9cafe099c3f4abb7f05b8552d5.png",
     "build/assets/images/AILab1-8d7bcd6f8f21745678a5b24bcfa8db1c.png",
     "docs/Develop/AI Workspace/ManagingAIWorkspace.md",
-    "docs/Develop/AI Workspace/CreatingNewAIWorkspace.md",
     "img/AILab.md",
     "docs/Dashboard/GPUDashboard/SlurmWithGPUs.md",
     "docs/Dashboard/GPUDashboard/KubernetesWithGPUs.md",
     "docs/Dashboard/GPUDashboard/GPU Dashboard.md",
-    "docs/Develop/AI Workspace/img/AIWorskpace6.png",
     "docs/Develop/AI Workspace/img/AIWorkspace5.png",
     "docs/Develop/AI Workspace/img/AIWorkspace4.png",
     "docs/Develop/AI Workspace/img/AIWorkspace3.png",
@@ -205,11 +209,6 @@
     "docs/LoggingIn.md",
     "docs/SigningUp.md",
     "docs/intro.md",
-    "docs/TeamandSupport/Users/ManagingUsers.md",
-    "docs/TeamandSupport/Users/CreatingNewUser - Copy.md",
-    "docs/TeamandSupport/Users/CreatingNewUser.md",
-    "docs/TeamandSupport/Users/CreatingNewTicket.md",
-    "docs/TeamandSupport/Tickets/FAQs.md",
-    "docs/TeamandSupport/ViewingTicketStatus.md"
+    "docs/TeamandSupport/Users/ManagingUsers.md"
   ]
 }
