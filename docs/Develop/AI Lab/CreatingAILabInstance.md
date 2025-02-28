@@ -1,6 +1,8 @@
 ---
 sidebar_position: 2
 ---
+# Creating AI Lab Instance
+
 This service allows users to manage and create AI Labs on the Shakti Cloud Platform, where they can build and deploy AI projects.
 
 1. To create new AI Lab, click the **New AI Lab** button.
