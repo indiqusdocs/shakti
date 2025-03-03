@@ -6,7 +6,7 @@ sidebar_position: 3
 Shakti offers an easy way of signing up for a subscriber cloud account to access all the services. To create an account, follow these steps:
 
  1. To navigate to the signup form, click **Sign Up** and fill the required details in the form:
-	![SignUp](SignUp.png)
+	![SignUp](LoggingIn.png)
 	![Sign-in](SigningUp.png)
 1. Select **I agree to the terms & conditions and privacy policy**.
 2. Click **Submit**.
