@@ -12,8 +12,9 @@ Shakti offers an easy way of signing up for a subscriber cloud account to access
 3. Select **I agree to the terms & conditions and privacy policy** option.
 4. Click **Sign Up**.
 	![Sign-Up](SignUp1.png)
-5. You receive an email with instructions at your registered email address. It includes an OTP required to generate your password for the platform.
-6. Specify the **New Password** and **Confirm New Password**.
-7.  Click **Confirm**.
+5. You receive an email with instructions at your registered email address, click the **ONE YOTTA** button.
+6. It includes an OTP required to generate your password for the platform.
+7. Specify the **New Password** and **Confirm New Password**.
+8.  Click **Confirm**.
 
-You can easily login into **Shakti Cloud** by using your credentials.
+You can easily log in to **Shakti Cloud** by using your credentials.
