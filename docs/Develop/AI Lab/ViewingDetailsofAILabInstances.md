@@ -1,6 +1,8 @@
 ---
 sidebar_position: 3
 ---
+# Viewing Details of AI Lab Instances
+
 To view the available AI Lab instances, navigate to the **AI Lab Instance** screen.  
 Here, you can see the following details:
 

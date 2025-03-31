@@ -1,6 +1,8 @@
 ---
 sidebar_position: 3
 ---
+# Viewing Details of AI Workspace
+
 To view the available AI Workspace, navigate to the **AI Workspace** screen.  
 Here, you can see the following details:
 - Asset ID
