@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/BillingandWallet/CreditVoucherBalance.md",
+                "file": "docs/TeamandSupport/Tickets/ViewingTicketStatus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CreditVoucherBalance"
+              "title": "ViewingTicketStatus"
             }
           }
         ]
@@ -165,9 +165,10 @@
   },
   "active": "1c3e81af1dd92315",
   "lastOpenFiles": [
+    "docs/TeamandSupport/Tickets/CreatingNewTicket.md",
+    "docs/BillingandWallet/CreditVoucherBalance.md",
     "docs/BillingandWallet/AddingWalletBalance.md",
     "docs/Develop/AI Workspace/ViewingDetailsofAIWorkspace.md",
-    "docs/BillingandWallet/CreditVoucherBalance.md",
     "docs/BillingandWallet/img/Redeem2.png",
     "docs/BillingandWallet/img/Redeem1.png",
     "docs/Develop/AI Workspace/ManagingAIWorkspace.md",
@@ -193,7 +194,6 @@
     "build/img/logolight.svg",
     "build/img/sps.svg",
     "build/img/sps.png",
-    "docs/TeamandSupport/Tickets/CreatingNewTicket.md",
     "docs/TeamandSupport/Tickets/ViewingTicketStatus.md",
     "docs/TeamandSupport/Tickets/FAQs.md",
     "docs/BillingandWallet/Wallet Management.md",
