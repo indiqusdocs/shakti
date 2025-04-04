@@ -130,7 +130,14 @@ require.resolve("@easyops-cn/docusaurus-search-local"),
             label: 'Docs',
 			position: "left",
           },
-		 		 
+		
+		{
+            type: 'docSidebar',
+            sidebarId: 'sidebar2',
+            position: 'left',
+            label: 'Release Notes',
+			position: "left",
+          },
 		/*   {
           href: '#', // Change to the desired link
           label: 'APIs', // The label of your button

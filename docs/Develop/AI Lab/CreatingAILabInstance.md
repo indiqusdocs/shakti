@@ -7,9 +7,7 @@ This service allows users to manage and create AI Labs on the Shakti Cloud Platf
 
 1. To create new AI Lab, click the **New AI Lab** button.
 	![AI Lab](img/AILab1.png)
-2. Select a Plan type **Hourly** or **Unlimited**.
-   ![Choose Plan type](img/AILab2.png)
-3. Choose the geographical region for your lab deployment.
+2. Choose the geographical region for your lab deployment.
    ![AI Lab](img/AILab4.png)
 4. Select the type of lab based on the required configurations.
    ![Creating AI Lab](img/AILab5.png)
